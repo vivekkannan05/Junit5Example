@@ -1,4 +1,4 @@
-#Junit
+# Junit
 
 Junit 5 consists of 3 blocks
       Junit Platform is te building blocks
@@ -8,7 +8,9 @@ Junit 5 consists of 3 blocks
  In this Test Class, I'm trying out different test asserts and seeing how things are different in terms of Junit 5 .
  
 Some of the things that I learnt
-##New Feature in Junit 5 is
+
+## New Feature in Junit 5 is
+
     The method need not be started with public
     U can add @DisplayName to make it look better for every test
       
